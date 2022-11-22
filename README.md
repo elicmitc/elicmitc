@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @elicmitc.
-- 👀 I’m interested in creating/learning more about embeddded systems, IoT, and everything C.
-- 🌱 I’m currently learning Encryption, Cybersecurity Law and Policy, and Security for Networked Systems.
+- Hi, I’m Elijah Mitchell.
+- I’m interested in creating/learning more about embeddded systems, IoT, and everything C.
+- I’m currently learning Encryption, Cybersecurity Law and Policy, and Security for Networked Systems for a Graduate Certificate in Cybersecurity.
+- I am also a graduate student in Luddy School of Informatics, Computing, and Engineering. 
 
 
 <!---
