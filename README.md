@@ -1,6 +1,6 @@
 - Hi, I’m Elijah Mitchell.
-- I’m interested in creating/learning more about embeddded systems, IoT, and everything C.
-- I have my BS and MS in Engineering. 
+- I’m interested in learning more about Embeddded Systems, IoT, and Machine Learning.
+- I have my BS and MS in Intelligent Systems Engineering along with a Graduate Certificate in Cybersecurity. 
 
 
 <!---
